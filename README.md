@@ -1,12 +1,13 @@
 
-### Hi there 👋
+### Hi there, Welcome to my Github Profile 👋
 
-A senior year Computer Science undergrad driven by caffeine and code | Loves programming, linux memes and travelling 💫
+I am a senior year Computer Science undergrad driven by caffeine and code | Loves programming, linux memes and travelling 💫
 - 🔭 I’m currently working on  <b>git commit -m "Building myself</b>"
 - 👯 I’m looking to collaborate in Open Source Projects on web dev and ML
 - 😄 Pronouns: She/her💖
 - ⚡ Fun fact: Don't go on my looks, they'll deceive😉
-- 😊 Enthusiastic for : Hackathons, Community meetups and tech ofcourse
+- 😊 I am a linux lover and hackathons are my desserts
 
 ![Simrann's github stats](https://github-readme-stats.vercel.app/api?username=simrann20)
+
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Simrann_Arora) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/simrann20)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/simrannarora/)
