@@ -5,7 +5,7 @@ I am a senior year Computer Science undergrad driven by caffeine and code | In l
 - 🔭 I’m currently working on  <b>git commit -m "Building myself</b>"
 - 👯 I’m looking to collaborate in Open Source Projects on web dev and ML
 - 😄 Pronouns: She/her💖
-- ⚡ Fun fact: Don't go on my looks, they'll deceive😉
+- ⚡ Fun fact: My private contributions are way more than public ones ;p
 - 😊 I am a linux lover and hackathons give me adrenaline rush
 
 ![Simrann's github stats](https://github-readme-stats.vercel.app/api?username=simrann20)
