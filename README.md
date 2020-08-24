@@ -3,7 +3,7 @@
 
 I am a senior year Computer Science undergrad driven by caffeine and code | In love with programming, linux memes and travelling 💫
 - 🔭 I’m currently working on  <b>git commit -m "Building myself</b>"
-- 👯 I’m looking to collaborate in Open Source Projects on web dev and ML
+- 👯 I’m looking to collaborate in Open Source Projects preferably on web dev/ML or anything else( I am open to learn and contribute)
 - 😄 Pronouns: She/her💖
 - ⚡ Fun fact: My private contributions are way more than public ones ;p
 - 😊 I am a linux lover and hackathons give me adrenaline rush
