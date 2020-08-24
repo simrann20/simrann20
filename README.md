@@ -1,7 +1,7 @@
 
 ### Hi there, Welcome to my Github Profile 👋
 
-I am a senior year Computer Science undergrad driven by caffeine and code | Loves programming, linux memes and travelling 💫
+I am a senior year Computer Science undergrad driven by caffeine and code | In love with programming, linux memes and travelling 💫
 - 🔭 I’m currently working on  <b>git commit -m "Building myself</b>"
 - 👯 I’m looking to collaborate in Open Source Projects on web dev and ML
 - 😄 Pronouns: She/her💖
