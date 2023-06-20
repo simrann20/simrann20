@@ -9,8 +9,6 @@ I am a postgrad student in CS and AI at IIIT Delhi, expected to graduate in Jan 
 - 💻 I am a data science geek!
 - 😄 Pronouns: She/her💖
 
-![Simrann's github stats](https://github-readme-stats.vercel.app/api?username=simrann20)
-
 #### Places where you can find me over the internet apart from social media:
 - [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=vLw2CH8AAAAJ)
 - [OpenGenus Author Profile](https://iq.opengenus.org/author/simrann/)
