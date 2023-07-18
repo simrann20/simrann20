@@ -3,8 +3,8 @@
 
 I am a postgrad student in CS and AI at IIIT Delhi, expected to graduate in Jan 2024.
 
-- 🎯 I’m currently looking for full-time/internship/co-op roles and am flexible in every work model(remote/hybrid/onsite)
-- 👩🏻‍💻 I was previously working as a Cloud Engineer at Amazon
+- 🎯 I’m currently looking for full-time roles and am flexible in every work model(remote/hybrid/onsite)
+- 👩🏻‍💻 I was previously working as a Cloud Engineer in AI/Machine Learning at Amazon
 - 🤓 I love working and drawing insights from messy datasets and building models for them! 
 - 💻 I am a data science geek!
 - 😄 Pronouns: She/her💖
