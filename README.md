@@ -1,13 +1,11 @@
 
 ### Hi there, welcome to my Github Profile 👋
 
-I am a postgrad student in CS and AI at IIIT Delhi, expected to graduate in Jan 2024.
 
 - 🎯 I’m currently looking for full-time roles and am flexible in every work model(remote/hybrid/onsite)
-- 👩🏻‍💻 I was previously working as a Cloud Engineer in AI/Machine Learning at Amazon
+- 👩🏻‍💻 I am working as a Data Scientist at EXL
 - 🤓 I love working and drawing insights from messy datasets and building models for them! 
-- 💻 I am a data science geek!
-- 😄 Pronouns: She/her💖
+- 💻 I am an AI/ML geek!
 
 #### Places where you can find me over the internet apart from social media:
 - [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=vLw2CH8AAAAJ)
