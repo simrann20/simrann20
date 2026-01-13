@@ -3,7 +3,7 @@
 
 
 - 🎯 I’m currently looking for full-time roles and am flexible in every work model(remote/hybrid/onsite)
-- 👩🏻‍💻 I am working as a Data Scientist at EXL
+- 👩🏻‍💻 I am working as a Data Scientist at Gartner
 - 🤓 I love working and drawing insights from messy datasets and building models for them! 
 - 💻 I am an AI/ML geek!
 
